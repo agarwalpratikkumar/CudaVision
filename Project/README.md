@@ -1,4 +1,4 @@
-**Detection and Tracking of the soccer ball**
+**Detection and Tracking of the soccer ball** <br>
 we are implementing the SweatyNet1 model,
 from Humanoids RoboCup Workshop 2017 (the base paper mentioned below) for detection
 and localization of a Soccer ball with feedforward Fully Convolutional
