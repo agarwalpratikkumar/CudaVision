@@ -11,10 +11,13 @@ sequence of frames. We show that adding convLSTM layer has a
 significant improvement in localizing the ball. And finally in the post
 processing step we are calculating Recall and False Detection Rate to
 check the accuracy of the models.
+<br>
+See the Report for more detailed explaination with the evaluation results.
+<br>
 
 **The base paper is :** Detection and Localization of Features on a Soccer
 Field with Feedforward Fully Convolutional Neural
 Networks (FCNN) for the Adult-Size Humanoid
 Robot Sweaty
 
-And for implementing the convLSTM part we followed: https://github.com/ndrplz/ConvLSTM_pytorch
+And for implementing the convLSTM part, we followed: https://github.com/ndrplz/ConvLSTM_pytorch
